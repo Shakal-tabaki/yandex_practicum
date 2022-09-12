@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shakal-tabaki
+- 👀 I’m interested in DataScience and different work with data
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on aspiring programmers to help each other learn more about DataScience
+- 📫 How to reach me on github, email: kupala-97@mail.ru.
