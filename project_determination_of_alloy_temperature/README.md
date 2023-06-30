@@ -1,7 +1,4 @@
-<h1>[Определение теперературы стали на финальной итерации подогрева]
-  ([https://github.com/Shakal-tabaki/yandex_practicum/main/project_determination_of_alloy_temperature/alloy_temperature_determination_project.ipynb](https://github.com/Shakal-tabaki/yandex_practicum/blob/84c55d75fda30339a1e10e904992a01e90ff1b18/project_determination_of_alloy_temperature/alloy_temperature_determination_project.ipynb))</h1>
-[Определение теперературы стали на финальной итерации подогрева](https://github.com/Shakal-tabaki/yandex_practicum/blob/main/project_determination_of_alloy_temperature/alloy_temperature_determination_project)
-<h1 align="left">Описание:</h1>
+<h1>[Определение теперературы стали на финальной итерации подогрева]</h1>
 
 Чтобы оптимизировать производственные расходы, металлургический комбинат ООО «Так закаляем сталь» решил уменьшить потребление электроэнергии на этапе обработки стали. Мне была поставленна задача по предоставленным данным разработать модель способную предсказать температуру стали на крайней итерации подогрева.
 
