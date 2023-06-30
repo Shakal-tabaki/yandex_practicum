@@ -1,5 +1,5 @@
 <h1>Определение теперературы стали на финальной итерации подогрева(#https://github.com/Shakal-tabaki/yandex_practicum/blob/main/project_determination_of_alloy_temperature/alloy_temperature_determination_project.ipynb)</h1>
-
+[Улучшение процесса обогащения золота](https://github.com/aq2003/Portfolio/tree/main/Gold%20Recovery)
 
 <h1 align="left">Описание:</h1>
 
