@@ -1,5 +1,5 @@
 
-<h1 align="left"><a href="https://github.com/Shakal-tabaki/yandex_practicum/blob/main/project_determination_of_alloy_temperature/alloy_temperature_determination_project.ipynb" target="_blank">Исследование технологического процесса очистки золота.</a></h1>
+<h1 align="left"><a href="https://github.com/Shakal-tabaki/yandex_practicum/blob/main/project_gold_recovery/process_gold_recovery.ipynb" target="_blank">Исследование технологического процесса очистки золота.</a></h1>
 
 <h1>Описание:</h1>
 
