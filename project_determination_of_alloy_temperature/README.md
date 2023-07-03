@@ -32,5 +32,4 @@ __Данные:__
 
 <h1 style="color:#539394">Навыки и инструменты:</h1>
 
-python, pandas, numpy, sklearn, matplotlib, seaborn, CatBoost  
-Исследовательский анализ данных, визуализация данных, предобработка данных
+python, pandas, numpy, sklearn, matplotlib, seaborn, CatBoost Исследовательский анализ данных, визуализация данных, предобработка данных
