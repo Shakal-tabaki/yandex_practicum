@@ -25,4 +25,4 @@ __Данные:__
 <h1 style="color:#539394">Навыки и инструменты:</h1>
 
 Python, Pandas, Matplotlib, NumPy, Scikit-learn, Seaborn
-</dir>   
+</dir> Исследовательский анализ данных.
