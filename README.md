@@ -1,9 +1,7 @@
-# Portfolio
-
-Проекты разработанные мной при обучении на ЯндексПрактикуме.
+<h1>Проекты разработанные мной при обучении на ЯндексПрактикуме.</h1>
 
 | #    | Наименование проекта                | Описание                                                     | Стек                                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Улучшение процесса обогащения золота](https://github.com/aq2003/Portfolio/tree/main/Gold%20Recovery) | Выбор лучшей модели для увеличения <br/>показателей технологического процесса <br/>обогащения золота | python, pandas, numpy, scipy, sklearn, matplotlib       |
-| 2.   | [Прогноз количества заказов для сервиса такси](https://github.com/aq2003/Portfolio/tree/main/Taxi%20Service) | Прогноз количества заказов в аэропортах <br/>для сервиса такси с целью более точного планирования количества доступных <br/>автомобилей | python, pandas, numpy, statsmodels, sklearn, CatBoost, matplotlib |
-| 3.   | [Анализ текстов](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, CatBoost |
+| 1.   | [Разработка модели для рекомендации тарифов.](https://github.com/Shakal-tabaki/yandex_practicum/blob/main/project_recommendation_of_tariffs/) | Выбор лучшей модели для увеличения <br/>точности предлагаеммых тарифов <br/>потенциальным клиентам | Python, Pandas, Matplotlib, NumPy, SciPy.       |
+| 2.   | [Модель по улучшению технологического процесса очистки золота.](https://github.com/Shakal-tabaki/yandex_practicum/blob/main/project_gold_recovery/) | Выбор лучшей модели для увеличения</br>показателей технологического процесса</br> обогащения золота | Python, Pandas, Matplotlib, NumPy, Scikit-learn, Seaborn |
+| 3.   | [Определение теперературы стали на финальной итерации подогрева](https://github.com/Shakal-tabaki/yandex_practicum/tree/main/project_determination_of_alloy_temperature) | Предобработка предоставленных данных, разработка на их основе, модели способной предсказать темперетуру розлива сплава, для уменьшения трат энергии на подогрев             | python, pandas, numpy, sklearn, matplotlib, seaborn, CatBoost |
