@@ -1,4 +1,3 @@
-
 <h1 align="left"><a href="https://github.com/Shakal-tabaki/yandex_practicum/blob/main/project_recommendation_of_tariffs/recommendation_of_tariffs.ipynb" target="_blank">Разработка модели для рекомендации тарифов.</a></h1>
 
 <h1>Описание:</h1>
@@ -15,4 +14,4 @@
 
 <h1>Навыки и инструменты:</h1>  
 Python, Pandas, Matplotlib, NumPy, SciPy.</dir>
-Описательная статистика, проверка статистических гипотез.
+<h>Описательная статистика, проверка статистических гипотез.</h>
