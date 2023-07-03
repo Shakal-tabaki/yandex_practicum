@@ -16,4 +16,5 @@
 <h1 style="color:#539394">Навыки и инструменты:</h1>  
 Python, Pandas, Matplotlib, NumPy, SciPy.</dir>  
 Описательная статистика, проверка статистических гипотез.
-</dir>sdgsdg
+</dir>   
+dgsdg
