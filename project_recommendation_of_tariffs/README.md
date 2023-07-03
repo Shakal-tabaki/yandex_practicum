@@ -1,5 +1,5 @@
 
-<h1 align="left"><a href="https://github.com/Shakal-tabaki/yandex_practicum/blob/main/project_determination_of_alloy_temperature/alloy_temperature_determination_project.ipynb" target="_blank">Разработка модели для рекомендации тарифов.</a></h1>
+<h1 align="left"><a href="https://github.com/Shakal-tabaki/yandex_practicum/blob/main/project_recommendation_of_tariffs/recommendation_of_tariffs.ipynb" target="_blank">Разработка модели для рекомендации тарифов.</a></h1>
 
 <h1>Описание:</h1>
 
@@ -14,5 +14,5 @@
 Проект закончен. На основе данных клиентов оператора сотовой связи был произведен анализ данных и предложен оптимальный тариф.
 
 <h1 style="color:#539394">Навыки и инструменты:</h1>
-Python, Pandas, Matplotlib, NumPy, SciPy</dir>
+Python, Pandas, Matplotlib, NumPy, SciPy.</dir>
 Описательная статистика, проверка статистических гипотез.
