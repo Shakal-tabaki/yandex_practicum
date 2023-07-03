@@ -1,6 +1,5 @@
-<h>[Определение теперературы стали на финальной итерации подогрева](https://github.com/Shakal-tabaki/yandex_practicum/blob/main/project_determination_of_alloy_temperature/alloy_temperature_determination_project.ipynb)</h>
+<h font size = 10>[Определение теперературы стали на финальной итерации подогрева](https://github.com/Shakal-tabaki/yandex_practicum/blob/main/project_determination_of_alloy_temperature/alloy_temperature_determination_project.ipynb)</h>
 
-[Определение теперературы стали на финальной итерации подогрева](https://github.com/Shakal-tabaki/yandex_practicum/blob/main/project_determination_of_alloy_temperature/alloy_temperature_determination_project.ipynb)
 
 <h1>Описание:</h1>
 
